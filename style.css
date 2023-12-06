@@ -145,6 +145,7 @@ main img.pequeno{
     display: block;
     margin: auto;
 }
+
 article > h1{
 
     color: var(--cor5);
